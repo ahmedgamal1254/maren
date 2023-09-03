@@ -44,14 +44,16 @@ this application develop to make teacher control our students and make education
   <li>security for exam</li>
 </ul>
 
-***** to install application *** 
-*- composer install
-*- composer update (require)
-*- php artisan key:generate
-*- import mysql database to our server
-*- call mysql database (name, username , pass)
-*- php artisan optimize
-*- php artisan serve --port=8001
-
+<h2>***** to install application ***</h2>
+<uL>
+<li>composer install </li>
+<li>composer update (require) </li>
+<li>php artisan key:generate </li>
+<li>import mysql database to our server </li>
+<li>call mysql database (name, username , pass) </li>
+<li>php artisan optimize </li>
+<li>php artisan route:clear</li>
+<li>php artisan serve --port=8001</li>
+</uL>
 
 <footer><h3>finished</h3></footer>
